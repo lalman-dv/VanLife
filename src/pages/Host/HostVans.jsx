@@ -42,5 +42,4 @@ const HostVans = () => {
     </section>
   );
 };
-
 export default HostVans;

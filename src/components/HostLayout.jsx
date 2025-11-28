@@ -40,5 +40,4 @@ const HostLayout = () => {
     </>
   );
 };
-
 export default HostLayout;
